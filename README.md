@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Lucas</h1>
 <h3 align="left">I'm a learner at BeCode Charleroi</h3>
 <h2 align="left">About me</h2>
+
 - 🌱 I am currently training **to become a junior front end developer**
 
 - 📫 How to reach me **l.beauloi@gmail.com**
