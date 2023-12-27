@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **l.beauloi@gmail.com**
 
+- :file_folder: Look at [my portfolio](https://lucas-beauloi-portfolio.netlify.app/) (under construction :construction:)
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas-beauloi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-beauloi" height="30" width="40" /></a>
