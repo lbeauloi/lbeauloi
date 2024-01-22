@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **l.beauloi@gmail.com**
 
-- :file_folder: Look at [my portfolio](https://lucas-beauloi-portfolio.netlify.app/) (under construction :construction:)
+- :file_folder: Look at [my portfolio](https://lucas-beauloi-portfolio.netlify.app/) 
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
